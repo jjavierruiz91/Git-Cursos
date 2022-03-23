@@ -1,0 +1,33 @@
+/* Selector de tipo  */
+h2{
+    color: crimson;
+    font-size: 32px;
+}
+
+li{
+    color: slateblue;
+    font-size: 28px;
+}
+
+/* Selector de clases */
+.peliculas{
+    color: rgb(0, 68, 255);
+    font-size: 50px;
+}
+
+
+
+
+/* Selector id */
+
+#Tempor{
+    font-size: 50px;
+    color: tomato;
+    text-decoration: underline;
+}
+
+/* Selector Universal  */
+
+/* *{
+    background-color: teal;
+} */
